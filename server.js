@@ -58,6 +58,6 @@ app.get("/check", (req, res) => {
     else res.send("[false]")
 })
 
-app.listen(PORT, function () {
-    console.log("start serwera na porcie " + PORT)
+app.listen(port, function () {
+    console.log("start serwera na porcie " + port)
 })
