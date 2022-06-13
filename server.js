@@ -1,7 +1,7 @@
 const { equal } = require("assert");
 var express = require("express")
 var app = express()
-const port = process.env.PORT || "1337";
+const port = process.env.PORT || 3000;
 let userTab=[];
 let move;
 let lost = false;
