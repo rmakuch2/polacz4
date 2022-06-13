@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "express": "^4.18.0",
+    "nedb": "^1.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "projekt_rm_jk",
+  "version": "1.0.0",
+  "description": "projekt_polacz4",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

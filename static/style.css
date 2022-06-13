@@ -1,0 +1,64 @@
+#root{
+position:absolute;
+
+
+}
+
+#status{
+    position:absolute;
+    background-color: green;
+    width:100%;
+    height:80px;
+}
+
+
+
+
+#log{
+
+position:absolute;
+margin-left:45%;
+margin-top:30%;
+border-radius:90px;
+
+
+
+}
+
+
+
+
+
+#login {
+    background:transparent;
+    border-radius:90px;
+    height:50px;
+    font-size:20px;
+    width:250px;
+    
+}
+#loguj{
+    margin-left:60px;
+    margin-top:15px;
+    border-radius:90px;
+    background-color: lightgreen;
+    width:100px;
+    height:50px;
+
+}
+
+#reset{
+    margin-left:60px;
+    margin-top:15px;
+    border-radius:90px;
+    background-color: lightgreen;
+    width:100px;
+    height:50px;
+}
+
+#timer{
+    position:absolute;
+    z-index: 10;
+    right: 20vw;
+    height:50px;
+}
