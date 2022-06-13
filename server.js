@@ -21,7 +21,7 @@ app.post("/ADD_USER", (req,res) =>{
         res.send(JSON.stringify({id: userTab.length, added:true}))
     }
     else{
-        console.log("Za duzo graczy")
+        console.log("Za duzo graczy!")
         res.send("[1]")
     }
 })
